@@ -16,6 +16,7 @@ return {
         storage = {
           home = vim.fn.stdpath 'data' .. '/leetcode',
         },
+        lang = "python3",
       }
     end,
   },
